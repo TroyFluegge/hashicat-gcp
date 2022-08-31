@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!<ins><p style="color:red;">${PREFIX} Environment</p></ins></h2></center>
-  Hello, Welcome to ${PREFIX}.
+  Welcome to ${PREFIX}.
   <!-- END -->
 
   </div>
