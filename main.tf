@@ -70,7 +70,7 @@ resource "google_compute_instance" "hashicat" {
     name = "hashicat"
     department = "devops"
     #owner = "troy"
-    workshop = amfam
+    workshop = "amfam"
     billable = true
   }
 
